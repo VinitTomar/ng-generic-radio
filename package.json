@@ -1,0 +1,25 @@
+{
+  "name": "ng-generic-radio",
+  "version": "1.0.3",
+  "author": {
+    "name": "Vinit Tomar",
+    "email": "vinit.tomar68@gmail.com"
+  },
+  "keywords": [
+    "ng-generic-radio",
+    "ng-generic-radio-group",
+    "generic-radio",
+    "radio-group",
+    "ng",
+    "angular"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinitTomar/ng-generic-radio.git"
+  }
+}
