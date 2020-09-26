@@ -10,6 +10,8 @@ To use `NgGenericRadio` we have to use `generic-radio-group` component and  insi
 
 npm install --save ng-generic-radio
 
+For Angular 10 use version 2.0.x
+
 ## Usage
 
 1. Import `NgGenericRadioModule` in the component module where we want to use generict radio.

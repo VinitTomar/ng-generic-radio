@@ -8,3 +8,4 @@ export * from './lib/directives/un-selected-state.directive';
 export * from './lib/errors/selected-state-not-found.error';
 export * from './lib/errors/un-selected-state-not-found.error';
 export * from './lib/helpers/coerce-boolean-property';
+export * from './lib/generic-radio-group/generic-radio-group.component';
